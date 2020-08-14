@@ -1,16 +1,17 @@
-### Hi there 👋
+`Oh hello there. Nothing to see here, keep scrolling.`
 
-<!--
-**codevico/codevico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`- 🔭 I’m currently working on a SUPER SECRET PROJECT. dont ask`
 
-Here are some ideas to get you started:
+`- 🌱 I’m currently learning NOTHING. i waste all of my free time watching youtube videos`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`- 👯 I’m looking to collaborate on ... idk, anything really! show me something cool`
+
+`- 🤔 I’m looking for help with NOTHING, im strong and independent`
+
+`- 💬 Ask me about ... whatever you want`
+
+`- 📫 How to reach me: ... github`
+
+`- 😄 Pronouns: what are those`
+
+`- ⚡ Fun fact: my life`
